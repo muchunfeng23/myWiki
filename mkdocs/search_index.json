@@ -2,23 +2,23 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "\u80be\u505a\u5f3a\n\n\n\u5fc3\u4e3b\u541b,\u80be\u4e3a\u5927\u529b\u58eb,\u4e43\u4f5c\u5f3a\u4e4b\u5b98.\n\n\n\u51e0\u4e2a\u91cd\u8981\u7684\u7a74\u4f4d\n\n\n\n\n\u80be\u4fde\u7a74\n - Create a new project.\n\n\n`` - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\n\u600e\u4e48\u901a\u4efb\u7763\u4e8c\u8109\n\n\n\u4fef\u5367\u6491    # The configuration file.\n\u4ef0\u5367\u8d77\u5750", 
             "title": "Home"
         }, 
         {
-            "location": "/#welcome-to-mkdocs", 
-            "text": "For full documentation visit  mkdocs.org .", 
-            "title": "Welcome to MkDocs"
+            "location": "/#_1", 
+            "text": "\u5fc3\u4e3b\u541b,\u80be\u4e3a\u5927\u529b\u58eb,\u4e43\u4f5c\u5f3a\u4e4b\u5b98.", 
+            "title": "\u80be\u505a\u5f3a"
         }, 
         {
-            "location": "/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Commands"
+            "location": "/#_2", 
+            "text": "\u80be\u4fde\u7a74  - Create a new project.  `` - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "\u51e0\u4e2a\u91cd\u8981\u7684\u7a74\u4f4d"
         }, 
         {
-            "location": "/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
+            "location": "/#_3", 
+            "text": "\u4fef\u5367\u6491    # The configuration file.\n\u4ef0\u5367\u8d77\u5750", 
+            "title": "\u600e\u4e48\u901a\u4efb\u7763\u4e8c\u8109"
         }
     ]
 }
